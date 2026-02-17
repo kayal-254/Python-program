@@ -1,4 +1,4 @@
 a = list(map(int, input().split()))
 b=list(map(int, input().split()))
-a.append(b)
+a.extend(b)
 print(a)
