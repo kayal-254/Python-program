@@ -20,4 +20,5 @@ else:
     print("Division completed successfully")
 
 finally:
+
     print("Program finished")           
